@@ -76,3 +76,29 @@ if(response.status === 200) {
 }
 
 ```
+
+**API Endpoint 📍**
+-------------------
+
+Our API endpoint is:
+
+`https://api.pumpdata.fun`
+
+
+### Features 🎉
+
+* Buy/sell with your own rpc and wallet 💸
+* Managed wallet buy/sell - in progress
+* Wallet creation api - in progress
+* Token creating api - in progress
+
+
+
+**FEES**
+-------------------
+We take **0.45%** fee for each transaction (cheapest on the market), if your building something for the public we are always open to discuss pricing
+
+
+**GET IN TOUCH**
+-------------------
+[telegram](https://t.me/+GzHpjFuw1iVhMWZk)
